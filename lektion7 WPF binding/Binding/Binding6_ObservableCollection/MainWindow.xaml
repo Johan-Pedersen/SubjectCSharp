@@ -1,0 +1,38 @@
+﻿<Window x:Class="Binding6_ObservableCollection.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Binding6_ObservableCollection"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="gridOuter">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <ListBox x:Name="listBox" Grid.Row="0" Grid.Column="0" ItemsSource="{Binding}" DisplayMemberPath="ListBoxToString" IsSynchronizedWithCurrentItem="True"></ListBox>
+        <Grid x:Name="gridInner" Grid.Row="0" Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" FontSize="20">MyDataClass:</Label>
+            <Label Grid.Row="1" Grid.Column="0" FontSize="20">Author:</Label>
+            <TextBox Grid.Row="1" Grid.Column="1" FontSize="20" Text="{Binding Path=Author}"></TextBox>
+            <Label Grid.Row="2" Grid.Column="0" FontSize="20">BookTitle:</Label>
+            <TextBox Grid.Row="2" Grid.Column="1" FontSize="20" Text="{Binding Path=BookTitle}"></TextBox>
+            <Button Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" FontSize="20" Click="Button_Click">Test</Button>
+        </Grid>
+    </Grid>
+</Window>

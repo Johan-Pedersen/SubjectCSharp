@@ -1,0 +1,13 @@
+C:\Users\sandb\OneDrive\C# workspace\lektion6 WPF\lektion6\exercise5\bin\Debug\exercise5.exe.config
+C:\Users\sandb\OneDrive\C# workspace\lektion6 WPF\lektion6\exercise5\bin\Debug\exercise5.exe
+C:\Users\sandb\OneDrive\C# workspace\lektion6 WPF\lektion6\exercise5\bin\Debug\exercise5.pdb
+C:\Users\sandb\OneDrive\C# workspace\lektion6 WPF\lektion6\exercise5\obj\Debug\MainWindow.g.cs
+C:\Users\sandb\OneDrive\C# workspace\lektion6 WPF\lektion6\exercise5\obj\Debug\App.g.cs
+C:\Users\sandb\OneDrive\C# workspace\lektion6 WPF\lektion6\exercise5\obj\Debug\exercise5_MarkupCompile.cache
+C:\Users\sandb\OneDrive\C# workspace\lektion6 WPF\lektion6\exercise5\obj\Debug\exercise5_MarkupCompile.lref
+C:\Users\sandb\OneDrive\C# workspace\lektion6 WPF\lektion6\exercise5\obj\Debug\MainWindow.baml
+C:\Users\sandb\OneDrive\C# workspace\lektion6 WPF\lektion6\exercise5\obj\Debug\exercise5.g.resources
+C:\Users\sandb\OneDrive\C# workspace\lektion6 WPF\lektion6\exercise5\obj\Debug\exercise5.Properties.Resources.resources
+C:\Users\sandb\OneDrive\C# workspace\lektion6 WPF\lektion6\exercise5\obj\Debug\exercise5.csproj.GenerateResource.cache
+C:\Users\sandb\OneDrive\C# workspace\lektion6 WPF\lektion6\exercise5\obj\Debug\exercise5.exe
+C:\Users\sandb\OneDrive\C# workspace\lektion6 WPF\lektion6\exercise5\obj\Debug\exercise5.pdb

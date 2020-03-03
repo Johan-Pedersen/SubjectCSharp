@@ -1,0 +1,11 @@
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\DelegateExercises\bin\Debug\DelegateExercises.dll
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\DelegateExercises\bin\Debug\DelegateExercises.pdb
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\DelegateExercises\obj\Debug\DelegateExercises.csprojAssemblyReference.cache
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\DelegateExercises\obj\Debug\DelegateExercises.csproj.CoreCompileInputs.cache
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\DelegateExercises\obj\Debug\DelegateExercises.dll
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\DelegateExercises\obj\Debug\DelegateExercises.pdb
+C:\Users\sandb\OneDrive\C# workspace\lektion2\DelegateExercise\DelegateExercises\bin\Debug\DelegateExercises.dll
+C:\Users\sandb\OneDrive\C# workspace\lektion2\DelegateExercise\DelegateExercises\bin\Debug\DelegateExercises.pdb
+C:\Users\sandb\OneDrive\C# workspace\lektion2\DelegateExercise\DelegateExercises\obj\Debug\DelegateExercises.csprojAssemblyReference.cache
+C:\Users\sandb\OneDrive\C# workspace\lektion2\DelegateExercise\DelegateExercises\obj\Debug\DelegateExercises.dll
+C:\Users\sandb\OneDrive\C# workspace\lektion2\DelegateExercise\DelegateExercises\obj\Debug\DelegateExercises.pdb

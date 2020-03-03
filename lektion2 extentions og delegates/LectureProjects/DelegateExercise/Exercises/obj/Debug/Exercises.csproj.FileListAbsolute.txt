@@ -1,0 +1,10 @@
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\Exercises\bin\Debug\Exercises.exe.config
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\Exercises\bin\Debug\Exercises.exe
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\Exercises\bin\Debug\Exercises.pdb
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\Exercises\obj\Debug\Exercises.csprojAssemblyReference.cache
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\Exercises\obj\Debug\Exercises.csproj.CoreCompileInputs.cache
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\Exercises\obj\Debug\Exercises.exe
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\Exercises\obj\Debug\Exercises.pdb
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\Exercises\bin\Debug\DelegateExercises.dll
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\Exercises\bin\Debug\DelegateExercises.pdb
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\Exercises\obj\Debug\Exercises.csproj.CopyComplete

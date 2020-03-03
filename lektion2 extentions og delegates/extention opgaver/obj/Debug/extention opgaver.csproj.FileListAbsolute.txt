@@ -1,0 +1,6 @@
+C:\Users\sandb\OneDrive\C# workspace\lektion2\extention opgaver\bin\Debug\extention opgaver.exe.config
+C:\Users\sandb\OneDrive\C# workspace\lektion2\extention opgaver\bin\Debug\extention opgaver.exe
+C:\Users\sandb\OneDrive\C# workspace\lektion2\extention opgaver\bin\Debug\extention opgaver.pdb
+C:\Users\sandb\OneDrive\C# workspace\lektion2\extention opgaver\obj\Debug\extention opgaver.csprojAssemblyReference.cache
+C:\Users\sandb\OneDrive\C# workspace\lektion2\extention opgaver\obj\Debug\extention opgaver.exe
+C:\Users\sandb\OneDrive\C# workspace\lektion2\extention opgaver\obj\Debug\extention opgaver.pdb

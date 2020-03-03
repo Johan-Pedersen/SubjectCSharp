@@ -1,0 +1,15 @@
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding6_Set_in_code\bin\Debug\Binding6_Set_in_code.exe.config
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding6_Set_in_code\bin\Debug\Binding6_Set_in_code.exe
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding6_Set_in_code\bin\Debug\Binding6_Set_in_code.pdb
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding6_Set_in_code\obj\Debug\MainWindow.g.cs
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding6_Set_in_code\obj\Debug\App.g.cs
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding6_Set_in_code\obj\Debug\Binding6_Set_in_code_MarkupCompile.cache
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding6_Set_in_code\obj\Debug\Binding6_Set_in_code_MarkupCompile.lref
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding6_Set_in_code\obj\Debug\MainWindow.baml
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding6_Set_in_code\obj\Debug\Binding6_Set_in_code.g.resources
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding6_Set_in_code\obj\Debug\Binding6_Set_in_code.Properties.Resources.resources
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding6_Set_in_code\obj\Debug\Binding6_Set_in_code.csproj.GenerateResource.cache
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding6_Set_in_code\obj\Debug\Binding6_Set_in_code.csproj.CoreCompileInputs.cache
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding6_Set_in_code\obj\Debug\Binding6_Set_in_code.exe
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding6_Set_in_code\obj\Debug\Binding6_Set_in_code.pdb
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding6_Set_in_code\obj\Debug\Binding6_Set_in_code.csprojAssemblyReference.cache

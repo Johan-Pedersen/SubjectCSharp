@@ -1,0 +1,6 @@
+C:\Users\sandb\OneDrive\C# workspace\lektion2\opg1\bin\Debug\opg1.exe.config
+C:\Users\sandb\OneDrive\C# workspace\lektion2\opg1\bin\Debug\opg1.exe
+C:\Users\sandb\OneDrive\C# workspace\lektion2\opg1\bin\Debug\opg1.pdb
+C:\Users\sandb\OneDrive\C# workspace\lektion2\opg1\obj\Debug\opg1.exe
+C:\Users\sandb\OneDrive\C# workspace\lektion2\opg1\obj\Debug\opg1.pdb
+C:\Users\sandb\OneDrive\C# workspace\lektion2\opg1\obj\Debug\opg1.csprojAssemblyReference.cache

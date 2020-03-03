@@ -1,0 +1,6 @@
+C:\Users\sandb\OneDrive\C# workspace\ConsoleApp1\opg 6\bin\Debug\opg 6.exe.config
+C:\Users\sandb\OneDrive\C# workspace\ConsoleApp1\opg 6\bin\Debug\opg 6.exe
+C:\Users\sandb\OneDrive\C# workspace\ConsoleApp1\opg 6\bin\Debug\opg 6.pdb
+C:\Users\sandb\OneDrive\C# workspace\ConsoleApp1\opg 6\obj\Debug\opg 6.csprojAssemblyReference.cache
+C:\Users\sandb\OneDrive\C# workspace\ConsoleApp1\opg 6\obj\Debug\opg 6.exe
+C:\Users\sandb\OneDrive\C# workspace\ConsoleApp1\opg 6\obj\Debug\opg 6.pdb

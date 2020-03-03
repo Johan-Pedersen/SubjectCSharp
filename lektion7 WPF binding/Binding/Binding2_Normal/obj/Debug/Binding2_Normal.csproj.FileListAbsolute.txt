@@ -1,0 +1,14 @@
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding2_Normal\bin\Debug\Binding2_Normal.exe.config
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding2_Normal\bin\Debug\Binding2_Normal.exe
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding2_Normal\bin\Debug\Binding2_Normal.pdb
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding2_Normal\obj\Debug\MainWindow.g.cs
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding2_Normal\obj\Debug\App.g.cs
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding2_Normal\obj\Debug\Binding2_Normal_MarkupCompile.cache
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding2_Normal\obj\Debug\Binding2_Normal_MarkupCompile.lref
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding2_Normal\obj\Debug\MainWindow.baml
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding2_Normal\obj\Debug\Binding2_Normal.g.resources
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding2_Normal\obj\Debug\Binding2_Normal.Properties.Resources.resources
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding2_Normal\obj\Debug\Binding2_Normal.csproj.GenerateResource.cache
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding2_Normal\obj\Debug\Binding2_Normal.csproj.CoreCompileInputs.cache
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding2_Normal\obj\Debug\Binding2_Normal.exe
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding2_Normal\obj\Debug\Binding2_Normal.pdb

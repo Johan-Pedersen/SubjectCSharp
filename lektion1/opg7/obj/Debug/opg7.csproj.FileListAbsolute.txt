@@ -1,0 +1,6 @@
+C:\Users\sandb\OneDrive\C# workspace\ConsoleApp1\opg7\bin\Debug\opg7.exe.config
+C:\Users\sandb\OneDrive\C# workspace\ConsoleApp1\opg7\bin\Debug\opg7.exe
+C:\Users\sandb\OneDrive\C# workspace\ConsoleApp1\opg7\bin\Debug\opg7.pdb
+C:\Users\sandb\OneDrive\C# workspace\ConsoleApp1\opg7\obj\Debug\opg7.csprojAssemblyReference.cache
+C:\Users\sandb\OneDrive\C# workspace\ConsoleApp1\opg7\obj\Debug\opg7.exe
+C:\Users\sandb\OneDrive\C# workspace\ConsoleApp1\opg7\obj\Debug\opg7.pdb

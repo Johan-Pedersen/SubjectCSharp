@@ -1,0 +1,29 @@
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding3_Solution\obj\Debug\MainWindow.g.cs
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding3_Solution\obj\Debug\App.g.cs
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding3_Solution\obj\Debug\Binding3_Solution_MarkupCompile.cache
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding3_Solution\obj\Debug\Binding3_Solution_MarkupCompile.lref
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding3_Solution\bin\Debug\Binding3_Solution.exe.config
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding3_Solution\bin\Debug\Binding3_Solution.exe
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding3_Solution\bin\Debug\Binding3_Solution.pdb
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding3_Solution\obj\Debug\MainWindow.baml
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding3_Solution\obj\Debug\Binding3_Solution.g.resources
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding3_Solution\obj\Debug\Binding3_Solution.Properties.Resources.resources
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding3_Solution\obj\Debug\Binding3_Solution.csproj.GenerateResource.cache
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding3_Solution\obj\Debug\Binding3_Solution.csproj.CoreCompileInputs.cache
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding3_Solution\obj\Debug\Binding3_Solution.exe
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding3_Solution\obj\Debug\Binding3_Solution.pdb
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding3_Solution\obj\Debug\Binding3_Solution.csprojAssemblyReference.cache
+C:\Users\sandb\OneDrive\C# workspace\lektion7 WPF binding\Binding\Binding3_Solution\bin\Debug\Binding3_Solution.exe.config
+C:\Users\sandb\OneDrive\C# workspace\lektion7 WPF binding\Binding\Binding3_Solution\bin\Debug\Binding3_Solution.exe
+C:\Users\sandb\OneDrive\C# workspace\lektion7 WPF binding\Binding\Binding3_Solution\bin\Debug\Binding3_Solution.pdb
+C:\Users\sandb\OneDrive\C# workspace\lektion7 WPF binding\Binding\Binding3_Solution\obj\Debug\Binding3_Solution.csprojAssemblyReference.cache
+C:\Users\sandb\OneDrive\C# workspace\lektion7 WPF binding\Binding\Binding3_Solution\obj\Debug\MainWindow.g.cs
+C:\Users\sandb\OneDrive\C# workspace\lektion7 WPF binding\Binding\Binding3_Solution\obj\Debug\App.g.cs
+C:\Users\sandb\OneDrive\C# workspace\lektion7 WPF binding\Binding\Binding3_Solution\obj\Debug\Binding3_Solution_MarkupCompile.cache
+C:\Users\sandb\OneDrive\C# workspace\lektion7 WPF binding\Binding\Binding3_Solution\obj\Debug\Binding3_Solution_MarkupCompile.lref
+C:\Users\sandb\OneDrive\C# workspace\lektion7 WPF binding\Binding\Binding3_Solution\obj\Debug\MainWindow.baml
+C:\Users\sandb\OneDrive\C# workspace\lektion7 WPF binding\Binding\Binding3_Solution\obj\Debug\Binding3_Solution.g.resources
+C:\Users\sandb\OneDrive\C# workspace\lektion7 WPF binding\Binding\Binding3_Solution\obj\Debug\Binding3_Solution.Properties.Resources.resources
+C:\Users\sandb\OneDrive\C# workspace\lektion7 WPF binding\Binding\Binding3_Solution\obj\Debug\Binding3_Solution.csproj.GenerateResource.cache
+C:\Users\sandb\OneDrive\C# workspace\lektion7 WPF binding\Binding\Binding3_Solution\obj\Debug\Binding3_Solution.exe
+C:\Users\sandb\OneDrive\C# workspace\lektion7 WPF binding\Binding\Binding3_Solution\obj\Debug\Binding3_Solution.pdb

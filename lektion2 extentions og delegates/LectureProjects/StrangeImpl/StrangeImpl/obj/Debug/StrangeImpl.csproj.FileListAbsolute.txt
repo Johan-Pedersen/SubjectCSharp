@@ -1,0 +1,7 @@
+C:\user\CSharp\Lektion_02\LectureProjects\StrangeImpl\StrangeImpl\bin\Debug\StrangeImpl.exe.config
+C:\user\CSharp\Lektion_02\LectureProjects\StrangeImpl\StrangeImpl\bin\Debug\StrangeImpl.exe
+C:\user\CSharp\Lektion_02\LectureProjects\StrangeImpl\StrangeImpl\bin\Debug\StrangeImpl.pdb
+C:\user\CSharp\Lektion_02\LectureProjects\StrangeImpl\StrangeImpl\obj\Debug\StrangeImpl.csprojAssemblyReference.cache
+C:\user\CSharp\Lektion_02\LectureProjects\StrangeImpl\StrangeImpl\obj\Debug\StrangeImpl.csproj.CoreCompileInputs.cache
+C:\user\CSharp\Lektion_02\LectureProjects\StrangeImpl\StrangeImpl\obj\Debug\StrangeImpl.exe
+C:\user\CSharp\Lektion_02\LectureProjects\StrangeImpl\StrangeImpl\obj\Debug\StrangeImpl.pdb

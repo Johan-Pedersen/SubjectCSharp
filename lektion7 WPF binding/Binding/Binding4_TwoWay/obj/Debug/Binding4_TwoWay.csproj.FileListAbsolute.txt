@@ -1,0 +1,15 @@
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding4_TwoWay\bin\Debug\Binding4_TwoWay.exe.config
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding4_TwoWay\bin\Debug\Binding4_TwoWay.exe
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding4_TwoWay\bin\Debug\Binding4_TwoWay.pdb
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding4_TwoWay\obj\Debug\MainWindow.g.cs
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding4_TwoWay\obj\Debug\App.g.cs
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding4_TwoWay\obj\Debug\Binding4_TwoWay_MarkupCompile.cache
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding4_TwoWay\obj\Debug\Binding4_TwoWay_MarkupCompile.lref
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding4_TwoWay\obj\Debug\MainWindow.baml
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding4_TwoWay\obj\Debug\Binding4_TwoWay.g.resources
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding4_TwoWay\obj\Debug\Binding4_TwoWay.Properties.Resources.resources
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding4_TwoWay\obj\Debug\Binding4_TwoWay.csproj.GenerateResource.cache
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding4_TwoWay\obj\Debug\Binding4_TwoWay.csproj.CoreCompileInputs.cache
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding4_TwoWay\obj\Debug\Binding4_TwoWay.exe
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding4_TwoWay\obj\Debug\Binding4_TwoWay.pdb
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding4_TwoWay\obj\Debug\Binding4_TwoWay.csprojAssemblyReference.cache

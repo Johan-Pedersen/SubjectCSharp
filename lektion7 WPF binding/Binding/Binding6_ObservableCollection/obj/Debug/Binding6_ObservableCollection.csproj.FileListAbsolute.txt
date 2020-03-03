@@ -1,0 +1,28 @@
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding6_ObservableCollection\bin\Debug\Binding6_ObservableCollection.exe.config
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding6_ObservableCollection\bin\Debug\Binding6_ObservableCollection.exe
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding6_ObservableCollection\bin\Debug\Binding6_ObservableCollection.pdb
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding6_ObservableCollection\obj\Debug\MainWindow.g.cs
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding6_ObservableCollection\obj\Debug\App.g.cs
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding6_ObservableCollection\obj\Debug\Binding6_ObservableCollection_MarkupCompile.cache
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding6_ObservableCollection\obj\Debug\Binding6_ObservableCollection_MarkupCompile.lref
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding6_ObservableCollection\obj\Debug\MainWindow.baml
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding6_ObservableCollection\obj\Debug\Binding6_ObservableCollection.g.resources
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding6_ObservableCollection\obj\Debug\Binding6_ObservableCollection.Properties.Resources.resources
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding6_ObservableCollection\obj\Debug\Binding6_ObservableCollection.csproj.GenerateResource.cache
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding6_ObservableCollection\obj\Debug\Binding6_ObservableCollection.csproj.CoreCompileInputs.cache
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding6_ObservableCollection\obj\Debug\Binding6_ObservableCollection.exe
+C:\user\CSharp\Lektion_07_WPF_DataBinding\LectureProjects\Binding\Binding6_ObservableCollection\obj\Debug\Binding6_ObservableCollection.pdb
+C:\Users\sandb\OneDrive\C# workspace\lektion7 WPF binding\Binding\Binding6_ObservableCollection\bin\Debug\Binding6_ObservableCollection.exe.config
+C:\Users\sandb\OneDrive\C# workspace\lektion7 WPF binding\Binding\Binding6_ObservableCollection\bin\Debug\Binding6_ObservableCollection.exe
+C:\Users\sandb\OneDrive\C# workspace\lektion7 WPF binding\Binding\Binding6_ObservableCollection\bin\Debug\Binding6_ObservableCollection.pdb
+C:\Users\sandb\OneDrive\C# workspace\lektion7 WPF binding\Binding\Binding6_ObservableCollection\obj\Debug\Binding6_ObservableCollection.csprojAssemblyReference.cache
+C:\Users\sandb\OneDrive\C# workspace\lektion7 WPF binding\Binding\Binding6_ObservableCollection\obj\Debug\MainWindow.g.cs
+C:\Users\sandb\OneDrive\C# workspace\lektion7 WPF binding\Binding\Binding6_ObservableCollection\obj\Debug\App.g.cs
+C:\Users\sandb\OneDrive\C# workspace\lektion7 WPF binding\Binding\Binding6_ObservableCollection\obj\Debug\Binding6_ObservableCollection_MarkupCompile.cache
+C:\Users\sandb\OneDrive\C# workspace\lektion7 WPF binding\Binding\Binding6_ObservableCollection\obj\Debug\Binding6_ObservableCollection_MarkupCompile.lref
+C:\Users\sandb\OneDrive\C# workspace\lektion7 WPF binding\Binding\Binding6_ObservableCollection\obj\Debug\MainWindow.baml
+C:\Users\sandb\OneDrive\C# workspace\lektion7 WPF binding\Binding\Binding6_ObservableCollection\obj\Debug\Binding6_ObservableCollection.g.resources
+C:\Users\sandb\OneDrive\C# workspace\lektion7 WPF binding\Binding\Binding6_ObservableCollection\obj\Debug\Binding6_ObservableCollection.Properties.Resources.resources
+C:\Users\sandb\OneDrive\C# workspace\lektion7 WPF binding\Binding\Binding6_ObservableCollection\obj\Debug\Binding6_ObservableCollection.csproj.GenerateResource.cache
+C:\Users\sandb\OneDrive\C# workspace\lektion7 WPF binding\Binding\Binding6_ObservableCollection\obj\Debug\Binding6_ObservableCollection.exe
+C:\Users\sandb\OneDrive\C# workspace\lektion7 WPF binding\Binding\Binding6_ObservableCollection\obj\Debug\Binding6_ObservableCollection.pdb

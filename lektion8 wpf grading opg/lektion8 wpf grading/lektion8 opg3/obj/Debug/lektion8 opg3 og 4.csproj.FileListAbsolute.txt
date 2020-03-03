@@ -1,0 +1,14 @@
+C:\Users\sandb\OneDrive\C# workspace\lektion8 wpf grading opg\lektion8 wpf grading\lektion8 opg3\obj\Debug\lektion8 opg3 og 4.csprojAssemblyReference.cache
+C:\Users\sandb\OneDrive\C# workspace\lektion8 wpf grading opg\lektion8 wpf grading\lektion8 opg3\obj\Debug\MainWindow.g.cs
+C:\Users\sandb\OneDrive\C# workspace\lektion8 wpf grading opg\lektion8 wpf grading\lektion8 opg3\obj\Debug\App.g.cs
+C:\Users\sandb\OneDrive\C# workspace\lektion8 wpf grading opg\lektion8 wpf grading\lektion8 opg3\obj\Debug\lektion8 opg3_MarkupCompile.cache
+C:\Users\sandb\OneDrive\C# workspace\lektion8 wpf grading opg\lektion8 wpf grading\lektion8 opg3\obj\Debug\lektion8 opg3_MarkupCompile.lref
+C:\Users\sandb\OneDrive\C# workspace\lektion8 wpf grading opg\lektion8 wpf grading\lektion8 opg3\bin\Debug\lektion8 opg3.exe.config
+C:\Users\sandb\OneDrive\C# workspace\lektion8 wpf grading opg\lektion8 wpf grading\lektion8 opg3\bin\Debug\lektion8 opg3.exe
+C:\Users\sandb\OneDrive\C# workspace\lektion8 wpf grading opg\lektion8 wpf grading\lektion8 opg3\bin\Debug\lektion8 opg3.pdb
+C:\Users\sandb\OneDrive\C# workspace\lektion8 wpf grading opg\lektion8 wpf grading\lektion8 opg3\obj\Debug\MainWindow.baml
+C:\Users\sandb\OneDrive\C# workspace\lektion8 wpf grading opg\lektion8 wpf grading\lektion8 opg3\obj\Debug\lektion8 opg3.g.resources
+C:\Users\sandb\OneDrive\C# workspace\lektion8 wpf grading opg\lektion8 wpf grading\lektion8 opg3\obj\Debug\lektion8_opg3.Properties.Resources.resources
+C:\Users\sandb\OneDrive\C# workspace\lektion8 wpf grading opg\lektion8 wpf grading\lektion8 opg3\obj\Debug\lektion8 opg3 og 4.csproj.GenerateResource.cache
+C:\Users\sandb\OneDrive\C# workspace\lektion8 wpf grading opg\lektion8 wpf grading\lektion8 opg3\obj\Debug\lektion8 opg3.exe
+C:\Users\sandb\OneDrive\C# workspace\lektion8 wpf grading opg\lektion8 wpf grading\lektion8 opg3\obj\Debug\lektion8 opg3.pdb

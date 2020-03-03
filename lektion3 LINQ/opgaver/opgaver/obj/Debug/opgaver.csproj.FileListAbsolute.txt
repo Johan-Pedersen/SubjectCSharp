@@ -1,0 +1,12 @@
+C:\Users\sandb\OneDrive\C# workspace\lektion3\opgaver\opgaver\bin\Debug\opgaver.exe.config
+C:\Users\sandb\OneDrive\C# workspace\lektion3\opgaver\opgaver\bin\Debug\opgaver.exe
+C:\Users\sandb\OneDrive\C# workspace\lektion3\opgaver\opgaver\bin\Debug\opgaver.pdb
+C:\Users\sandb\OneDrive\C# workspace\lektion3\opgaver\opgaver\obj\Debug\opgaver.csprojAssemblyReference.cache
+C:\Users\sandb\OneDrive\C# workspace\lektion3\opgaver\opgaver\obj\Debug\opgaver.exe
+C:\Users\sandb\OneDrive\C# workspace\lektion3\opgaver\opgaver\obj\Debug\opgaver.pdb
+C:\Users\sandb\OneDrive\C# workspace\lektion3 LINQ\opgaver\opgaver\bin\Debug\opgaver.exe.config
+C:\Users\sandb\OneDrive\C# workspace\lektion3 LINQ\opgaver\opgaver\bin\Debug\opgaver.exe
+C:\Users\sandb\OneDrive\C# workspace\lektion3 LINQ\opgaver\opgaver\bin\Debug\opgaver.pdb
+C:\Users\sandb\OneDrive\C# workspace\lektion3 LINQ\opgaver\opgaver\obj\Debug\opgaver.csprojAssemblyReference.cache
+C:\Users\sandb\OneDrive\C# workspace\lektion3 LINQ\opgaver\opgaver\obj\Debug\opgaver.exe
+C:\Users\sandb\OneDrive\C# workspace\lektion3 LINQ\opgaver\opgaver\obj\Debug\opgaver.pdb

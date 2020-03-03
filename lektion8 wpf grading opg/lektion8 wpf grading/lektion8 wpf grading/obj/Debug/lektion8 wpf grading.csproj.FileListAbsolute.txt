@@ -1,0 +1,14 @@
+C:\Users\sandb\OneDrive\C# workspace\lektion8 wpf grading opg\lektion8 wpf grading\lektion8 wpf grading\bin\Debug\lektion8 wpf grading.exe.config
+C:\Users\sandb\OneDrive\C# workspace\lektion8 wpf grading opg\lektion8 wpf grading\lektion8 wpf grading\bin\Debug\lektion8 wpf grading.exe
+C:\Users\sandb\OneDrive\C# workspace\lektion8 wpf grading opg\lektion8 wpf grading\lektion8 wpf grading\bin\Debug\lektion8 wpf grading.pdb
+C:\Users\sandb\OneDrive\C# workspace\lektion8 wpf grading opg\lektion8 wpf grading\lektion8 wpf grading\obj\Debug\lektion8 wpf grading.csprojAssemblyReference.cache
+C:\Users\sandb\OneDrive\C# workspace\lektion8 wpf grading opg\lektion8 wpf grading\lektion8 wpf grading\obj\Debug\MainWindow.g.cs
+C:\Users\sandb\OneDrive\C# workspace\lektion8 wpf grading opg\lektion8 wpf grading\lektion8 wpf grading\obj\Debug\App.g.cs
+C:\Users\sandb\OneDrive\C# workspace\lektion8 wpf grading opg\lektion8 wpf grading\lektion8 wpf grading\obj\Debug\lektion8 wpf grading_MarkupCompile.cache
+C:\Users\sandb\OneDrive\C# workspace\lektion8 wpf grading opg\lektion8 wpf grading\lektion8 wpf grading\obj\Debug\lektion8 wpf grading_MarkupCompile.lref
+C:\Users\sandb\OneDrive\C# workspace\lektion8 wpf grading opg\lektion8 wpf grading\lektion8 wpf grading\obj\Debug\MainWindow.baml
+C:\Users\sandb\OneDrive\C# workspace\lektion8 wpf grading opg\lektion8 wpf grading\lektion8 wpf grading\obj\Debug\lektion8 wpf grading.g.resources
+C:\Users\sandb\OneDrive\C# workspace\lektion8 wpf grading opg\lektion8 wpf grading\lektion8 wpf grading\obj\Debug\lektion8_wpf_grading.Properties.Resources.resources
+C:\Users\sandb\OneDrive\C# workspace\lektion8 wpf grading opg\lektion8 wpf grading\lektion8 wpf grading\obj\Debug\lektion8 wpf grading.csproj.GenerateResource.cache
+C:\Users\sandb\OneDrive\C# workspace\lektion8 wpf grading opg\lektion8 wpf grading\lektion8 wpf grading\obj\Debug\lektion8 wpf grading.exe
+C:\Users\sandb\OneDrive\C# workspace\lektion8 wpf grading opg\lektion8 wpf grading\lektion8 wpf grading\obj\Debug\lektion8 wpf grading.pdb

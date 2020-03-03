@@ -1,0 +1,16 @@
+﻿<Window x:Class="Binding3_Solution.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Binding3_Solution"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>            
+            <TextBox FontSize="30" TextChanged="TextBox_TextChanged">Text in TextBox</TextBox>
+            <Label FontSize="30" Content="Normal unbound label"></Label>
+            <Label x:Name="labelForDataBinding" FontSize="30" Content="{Binding Path=Author}"></Label>
+        </StackPanel>
+    </Grid>
+</Window>

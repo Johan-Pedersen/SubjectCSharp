@@ -1,0 +1,29 @@
+﻿<Window x:Class="Binding4_TwoWay.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Binding4_TwoWay"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="grid">
+        <StackPanel x:Name="stackPanel">
+            <!--No binding for textBoxUpper-->
+            <TextBox x:Name="textBoxUpper" FontSize="30" TextChanged="TextBoxUpper_TextChanged">Text in textBoxUpper</TextBox>
+            
+            <!--Label to show stuff-->
+            <Label x:Name="labelForDataBinding" FontSize="30" Content="{Binding Path=Author}"></Label>
+
+            <!-- textBoxLower has
+            OneWay         : Gets Author from MyDataContext   (edit textBoxUpper to demo)
+            OneWayToSource : Sets Author in   MyDataContext   (edit textBoxLower to demo)
+            TwoWay         : Sets/Gets   MyDataContext.Author (edit any to demo)            
+            -->
+            <TextBox x:Name="textBoxLower" FontSize="30" Text="{Binding Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, Path=Author}"></TextBox>
+            
+            <!--Slider demo-->
+            <Slider Minimum="0" Maximum="100" x:Name="slider" Value="{Binding Path=Rating}"></Slider>
+            <Label x:Name="ratingLabel" FontSize="30" Content="{Binding Path=Rating}"></Label>
+        </StackPanel>
+    </Grid>
+</Window>

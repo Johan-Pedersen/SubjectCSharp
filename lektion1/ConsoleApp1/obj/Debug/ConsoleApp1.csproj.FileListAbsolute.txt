@@ -1,0 +1,9 @@
+C:\Users\sandb\OneDrive\C# workspace\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\sandb\OneDrive\C# workspace\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\sandb\OneDrive\C# workspace\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\sandb\OneDrive\C# workspace\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\sandb\OneDrive\C# workspace\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\sandb\OneDrive\C# workspace\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\sandb\OneDrive\C# workspace\ConsoleApp1\ConsoleApp1\bin\Debug\ClassLibrary1.dll
+C:\Users\sandb\OneDrive\C# workspace\ConsoleApp1\ConsoleApp1\bin\Debug\ClassLibrary1.pdb
+C:\Users\sandb\OneDrive\C# workspace\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete

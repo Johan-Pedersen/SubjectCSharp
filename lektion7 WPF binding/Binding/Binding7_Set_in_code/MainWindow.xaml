@@ -1,0 +1,28 @@
+﻿<Window x:Class="Binding6_Set_in_code.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Binding6_Set_in_code"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="grid" Grid.Row="0" Grid.Column="1">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" FontSize="20">MyDataClass:</Label>
+        <Label Grid.Row="1" Grid.Column="0" FontSize="20">Author:</Label>
+        <TextBox x:Name="authorTextBox" Margin="0,0,10,0" Grid.Row="1" Grid.Column="1" FontSize="20" ></TextBox> <!--Text="{Binding Path=Author}"-->
+        <Label Grid.Row="2" Grid.Column="0" FontSize="20">BookTitle:</Label>
+        <TextBox x:Name="bookTitleTextBox" Margin="0,0,10,0" Grid.Row="2" Grid.Column="1" FontSize="20" ></TextBox> <!--Text="{Binding Path=BookTitle}"-->
+        <Button Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" FontSize="20" Content="Set Binding in Code" Click="Button_Click"></Button>
+    </Grid>
+</Window>
