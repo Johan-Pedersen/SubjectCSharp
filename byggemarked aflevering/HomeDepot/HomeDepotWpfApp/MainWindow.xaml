@@ -1,0 +1,64 @@
+﻿<Window x:Class="HomeDepotWpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HomeDepotWpfApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition ></ColumnDefinition>
+            <ColumnDefinition ></ColumnDefinition>
+            <ColumnDefinition ></ColumnDefinition>
+            <ColumnDefinition ></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions >
+            <RowDefinition Height="300"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <!--Hvis man skal bruge den samme styling på nogle elementer kan man få sådan en defineret så man ikke skal skrive det samme hele tiden-->
+        <ListBox Name="ListCustomers" ItemsSource="{Binding}" DisplayMemberPath="Name" Grid.Column="0" Grid.Row="0" Margin="0,0,0.6,0" SelectionChanged="ListBoxCustomer_SelectionChanged">
+        </ListBox>
+        <Button Name ="CreateCustomer" Grid.Column="0" Grid.Row="1" Height="20" Width="80" VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="20,0,10,10" Click="CreateCustomer_Click" >Create</Button>
+        <Label FontSize="20" FontWeight="Bold" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center">Update Customer</Label>
+        <Label Name ="lbName" Grid.Row="0" Margin="0.4,50,0.4,0" Grid.Column="1" >Navn:</Label>
+        <TextBox  x:Name="tbName" Text="{Binding Path=Name}" Grid.Row="0" Height="20" Width="150" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0.4,70,0,0" Grid.Column="1"></TextBox>
+        <Label Name ="lbAddress" Grid.Row="0" Margin="0,100,0,0" Grid.Column="1" >Address:</Label>
+        <TextBox  x:Name="tbAddress" Text="{Binding Path=Address}"  Grid.Row="0" Height="20" Width="150" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0.4,130,0,0" Grid.Column="1"></TextBox>
+        <Label Name ="lbEmail" Grid.Row="0" Margin="0,160,0,0" Grid.Column="1" >Email:</Label>
+        <TextBox x:Name="tbEmail" Text="{Binding Path=Email}"  Grid.Row="0" Height="20" Width="150" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0.4,185,0,0" Grid.Column="1"></TextBox>
+        
+        <Label Name ="lbFind" Grid.Row="1" Margin="0,20,0,0" Grid.Column="0" >Find by Customer ID:</Label>
+        <TextBox x:Name="tbFind" Grid.Row="1" Height="20" Width="150" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,50,0,0" Grid.Column="0"></TextBox>
+        <Button Name ="FindCustomer" Grid.Column="0" Grid.Row="1" Height="20" Width="80" VerticalAlignment="Bottom" HorizontalAlignment="Left" Margin="10,0,20,10" Click="FindCustomer_Click" >Find</Button>
+
+
+        <Button Name ="EditCustomer" Grid.Column="1" Grid.Row="1" Height="20" Width="80" VerticalAlignment="Bottom" HorizontalAlignment="Left" Margin="0,0,20.6,10" Click="EditCustomer_Click" >Save Update</Button>
+
+        <Label FontSize="20" FontWeight="Bold" Grid.Row="0" Grid.Column="2" HorizontalAlignment="Center">Bookings</Label>
+        <ListBox Name ="ListBookings" Grid.Row="0" Grid.Column="2" Margin="0,50,0,0" SelectionChanged="ListBookings_SelectionChanged">
+        </ListBox>
+        
+        
+        <Label FontSize="20" FontWeight="Bold" Grid.Row="0" Grid.Column="3" HorizontalAlignment="Center">Change Status</Label>
+
+        <Label Grid.Row="0" Grid.Column="3" HorizontalAlignment="Left" Margin="0,50,0,0" FontWeight="Bold" >Tool:</Label>
+        <TextBox  x:Name="tbTool" Text="{Binding Path=Name}" Grid.Row="0" Height="20" Width="150" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,70,0,0" Grid.Column="3"></TextBox>
+        <Label Grid.Row="0" Grid.Column="3" HorizontalAlignment="Left" Margin="0,100,0,0" FontWeight="Bold" >To Date:</Label>
+        <TextBox  x:Name="tbToDate"  Text="{Binding Path=ToDate}" Grid.Row="0" Height="20" Width="150" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,120,0,0" Grid.Column="3"></TextBox>
+        <Label Grid.Row="0" Grid.Column="3" HorizontalAlignment="Left" Margin="0,150,0,0" FontWeight="Bold" >From Date:</Label>
+        <TextBox  x:Name="tbFromDate"  Text="{Binding Path=FromDate}" Grid.Row="0" Height="20" Width="150" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,170,0,0" Grid.Column="3"></TextBox>
+        <Label Grid.Row="0" Grid.Column="3" HorizontalAlignment="Left" Margin="0,200,0,0" FontWeight="Bold" >Status:</Label>
+        <TextBox  x:Name="tbStatus" Grid.Row="0"  Text="{Binding Path=Status}" Height="20" Width="150" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,220,0,0" Grid.Column="3"></TextBox>
+
+        <Button x:Name="btnReserve" Grid.Row="0" Grid.Column="3" Height="20" Width="60" VerticalAlignment="Bottom" HorizontalAlignment="Left" Margin="10,0,10,10" Click="btnReserve_Click">Reserved</Button>
+        <Button x:Name="btnExtradited" Grid.Row="0" Grid.Column="3" Height="20" Width="60" VerticalAlignment="Bottom" HorizontalAlignment="Center" Margin="10,0,10,10" Click="btnExtradited_Click">Extradited</Button>
+        <Button x:Name="btnReturned" Grid.Row="0" Grid.Column="3" Height="20" Width="60" VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="10,0,10,10" Click="btnReturned_Click">Returned</Button>
+
+        
+
+
+
+    </Grid>
+</Window>

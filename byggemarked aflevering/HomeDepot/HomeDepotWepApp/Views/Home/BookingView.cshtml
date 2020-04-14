@@ -1,0 +1,22 @@
+﻿@model HomeDepotWepApp.Models.Booking
+
+@{
+    Layout = null;
+    ViewBag.Title = "BookingView";
+}
+
+<h2>BookingView</h2>
+
+@using (Html.BeginForm("DoneView", "Home", FormMethod.Post, Model)){
+
+    @Html.LabelFor(m => Model.ToDate);
+    @Html.TextAreaFor(m => Model.ToDate);
+
+    @Html.LabelFor(m => Model.FromDate);
+    @Html.TextAreaFor(m => Model.FromDate);
+
+    @Html.HiddenFor(m => Model.bookingId);
+
+    <input type="submit" value="go" />
+
+}

@@ -1,0 +1,19 @@
+﻿@model HomeDepotWepApp.Models.BookingViewModel
+
+@{
+    Layout = null;
+    ViewBag.Title = "Index";
+
+}
+
+<h2>homePage</h2>
+
+
+@using (Html.BeginForm("BookingView", "Home"))
+{
+
+    @Html.DropDownListFor(m => m.val, (SelectList)ViewBag.Bookings, "Select one")
+
+    <input type="submit" value="Select" />
+}
+

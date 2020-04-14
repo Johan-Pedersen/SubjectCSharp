@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\byggemarked aflevering",
+    "\\byggemarked aflevering\\HomeDepot",
+    "\\byggemarked aflevering\\HomeDepot\\HomeDepotWpfApp"
   ],
+  "SelectedNode": "\\byggemarked aflevering\\HomeDepot\\HomeDepotWpfApp\\MainWindow.xaml.cs",
   "PreviewInSolutionExplorer": false
 }

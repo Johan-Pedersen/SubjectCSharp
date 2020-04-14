@@ -1,0 +1,28 @@
+﻿@model HomeDepotWepApp.Models.Customer
+
+@{
+    ViewBag.Title = "LogIn";
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create</title>
+</head>
+<body>
+    @using (Html.BeginForm())
+    {
+        @Html.LabelFor(model => model.Username);
+        @Html.TextAreaFor(model => model.Username);
+        @Html.LabelFor(model => model.Password);
+        @Html.TextAreaFor(model => model.Password);
+
+        <input type="submit" name="submit" value="login" />
+    }
+
+</body>
+    </html>

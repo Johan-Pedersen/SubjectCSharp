@@ -1,0 +1,19 @@
+﻿@model HomeDepotWepApp.Models.Booking
+
+@{
+    Layout = null;
+    ViewBag.Title = "DoneView";
+}
+
+<h2>DoneView</h2>
+
+<p>Booknings dato'en er ændret</p>
+
+@Html.LabelFor(m => m.FromDate);
+<br />
+@Html.Label(Model.FromDate.ToString());
+<br />
+@Html.LabelFor( m => m.FromDate);
+<br />
+@Html.Label(Model.ToDate.ToString());
+
